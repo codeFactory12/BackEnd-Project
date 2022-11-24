@@ -6,7 +6,7 @@ import TaskPage from './pages/TaskPage'
 
 export default function App() {
   return (
-    <div className='h-screen bg-zync-300'>
+    <div className='h-screen bg-zinc-600/40'>
       <Navbar />
       <div className='container mx-auto p-10'>
         <Routes>
